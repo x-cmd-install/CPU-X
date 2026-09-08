@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 26331536,
       "digest": "sha256:c68418d00db254159cd68eb0b40fae6dd57e6b407e4d42ae1c6f576affaed066",
-      "download_count": 5707,
+      "download_count": 5708,
       "created_at": "2025-08-22T15:03:11Z",
       "updated_at": "2025-08-22T15:03:12Z",
       "browser_download_url": "https://github.com/TheTumultuousUnicornOfDarkness/CPU-X/releases/download/v5.4.0/CPU-X-5.4.0-aarch64.AppImage"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 26816912,
       "digest": "sha256:ffcbbe406f380214c34497220d2d96c14cbfcf85bd81e8582eca512285067e8b",
-      "download_count": 13044,
+      "download_count": 13048,
       "created_at": "2025-08-22T15:03:09Z",
       "updated_at": "2025-08-22T15:03:10Z",
       "browser_download_url": "https://github.com/TheTumultuousUnicornOfDarkness/CPU-X/releases/download/v5.4.0/CPU-X-5.4.0-x86_64.AppImage"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 91890,
       "digest": "sha256:9f6bf35a8135aeebba7472eae1ed1004579ca9d10ce0a98925ae313eac0dc591",
-      "download_count": 19818,
+      "download_count": 19825,
       "created_at": "2025-08-22T15:03:08Z",
       "updated_at": "2025-08-22T15:03:08Z",
       "browser_download_url": "https://github.com/TheTumultuousUnicornOfDarkness/CPU-X/releases/download/v5.4.0/CPU-X-5.4.0-x86_64.AppImage.zsync"
