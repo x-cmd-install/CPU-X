@@ -7,7 +7,7 @@ about:
   latestVersion: "continuous"
   latestRelease: "v5.4.0"
   latestPrerelease: "continuous"
-  collectedAt: 2026-09-09T05:44:34Z
+  collectedAt: 2026-09-09T20:01:51Z
 timeline:
   created: 2014-09-21
   lastCommit: 2026-08-26
@@ -17,10 +17,10 @@ timeline:
 popularity:
   star: 2649
   watcher: 41
-  fork: 155
+  fork: 156
   release: 50
   contributor: 180
-  pullRequest: 112
+  pullRequest: 113
   issue: 306
 language:
   C: 1059344
@@ -35,7 +35,7 @@ recent:
     since: 2026-08-10
     release: 1
     mergedPR: 0
-    openPR: 1
+    openPR: 2
     closedIssue: 1
     openIssue: 2
     commit: 4
@@ -43,7 +43,7 @@ recent:
     since: 2026-07-11
     release: 1
     mergedPR: 0
-    openPR: 2
+    openPR: 3
     closedIssue: 1
     openIssue: 3
     commit: 5
@@ -51,7 +51,7 @@ recent:
     since: 2026-06-11
     release: 1
     mergedPR: 0
-    openPR: 2
+    openPR: 3
     closedIssue: 1
     openIssue: 3
     commit: 7
@@ -59,7 +59,7 @@ recent:
     since: 2026-03-13
     release: 1
     mergedPR: 2
-    openPR: 2
+    openPR: 3
     closedIssue: 7
     openIssue: 3
     commit: 18
@@ -67,7 +67,7 @@ recent:
     since: 2025-09-14
     release: 1
     mergedPR: 6
-    openPR: 2
+    openPR: 3
     closedIssue: 20
     openIssue: 3
     commit: 59
@@ -75,20 +75,20 @@ recent:
     since: 2024-09-19
     release: 9
     mergedPR: 23
-    openPR: 2
+    openPR: 3
     closedIssue: 47
     openIssue: 4
     commit: 452
 total:
   release: 50
   mergedPR: 91
-  openPR: 2
+  openPR: 3
   closedIssue: 302
   openIssue: 4
   commit: 2828
 ---
 path: /home/runner/.x-repo/github.com/thetumultuousunicornofdarkness/CPU-X
-collectedAt: 2026-09-09T05:44:37Z
+collectedAt: 2026-09-09T20:01:54Z
 loc:
   C:
     code: 32204
