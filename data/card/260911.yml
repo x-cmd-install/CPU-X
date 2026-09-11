@@ -7,7 +7,7 @@ about:
   latestVersion: "continuous"
   latestRelease: "v5.4.0"
   latestPrerelease: "continuous"
-  collectedAt: 2026-09-11T05:44:15Z
+  collectedAt: 2026-09-11T19:19:23Z
 timeline:
   created: 2014-09-21
   lastCommit: 2026-08-26
@@ -15,9 +15,9 @@ timeline:
   lastRelease: 2025-08-22
   lastPrerelease: 2026-08-26
 popularity:
-  star: 2651
+  star: 2652
   watcher: 41
-  fork: 156
+  fork: 157
   release: 50
   contributor: 180
   pullRequest: 113
@@ -88,7 +88,7 @@ total:
   commit: 2828
 ---
 path: /home/runner/.x-repo/github.com/thetumultuousunicornofdarkness/CPU-X
-collectedAt: 2026-09-11T05:44:17Z
+collectedAt: 2026-09-11T19:19:27Z
 loc:
   C:
     code: 32204
