@@ -14,13 +14,13 @@ x install CPU-X
 
 ## Code insight
 
-Total: **54,704** lines of code across **142** files in the top 5 languages.
+Total: **54,706** lines of code across **142** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | C | 32,204 | 2,950 | 4,135 | 48 |
 | Assembly | 7,822 | 768 | 1,297 | 7 |
-| Cpp | 6,766 | 871 | 1,128 | 19 |
+| Cpp | 6,767 | 871 | 1,128 | 19 |
 | CHeader | 5,030 | 1,158 | 844 | 58 |
 | CppHeader | 987 | 318 | 272 | 10 |
 
@@ -33,7 +33,7 @@ Total: **54,704** lines of code across **142** files in the top 5 languages.
 ## Release
 
 - **Latest**: `continuous` (2025-08-22)
-- **Last commit**: 2026-08-26
+- **Last commit**: 2026-09-13
 - **Assets in release**: 4
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **54,704** lines of code across **142** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 50 · **Merged PRs**: 91 · **Open PRs**: 3 · **Closed issues**: 302 · **Open issues**: 4 · **Commits**: 2828
+- **Releases**: 50 · **Merged PRs**: 92 · **Open PRs**: 2 · **Closed issues**: 305 · **Open issues**: 1 · **Commits**: 2831
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 1 | 0 | 2 | 1 | 2 | 3 |
-| last60d | 2026-07-15 | 1 | 0 | 3 | 1 | 3 | 4 |
-| 90d | 2026-06-15 | 1 | 0 | 3 | 1 | 3 | 6 |
-| last180d | 2026-03-17 | 1 | 2 | 3 | 7 | 3 | 14 |
-| 360d | 2025-09-18 | 1 | 6 | 3 | 20 | 3 | 59 |
-| last720d | 2024-09-23 | 9 | 23 | 3 | 46 | 4 | 450 |
+| 30d | 2026-08-15 | 1 | 1 | 1 | 3 | 0 | 6 |
+| last60d | 2026-07-16 | 1 | 1 | 2 | 4 | 0 | 7 |
+| 90d | 2026-06-16 | 1 | 1 | 2 | 4 | 0 | 9 |
+| last180d | 2026-03-18 | 1 | 1 | 2 | 9 | 0 | 17 |
+| 360d | 2025-09-19 | 1 | 7 | 2 | 22 | 0 | 62 |
+| last720d | 2024-09-24 | 9 | 24 | 2 | 49 | 1 | 452 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for CPU-X lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:49:14Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T06:07:58Z._
