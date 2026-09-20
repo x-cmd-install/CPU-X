@@ -4,7 +4,7 @@
 
 CPU-X is a Free software that gathers information on CPU, motherboard and more
 
-![CPU-X](https://repo.x-cmd.io/CPU-X.svg?lang=zh)
+[![x-cmd/install — CPU-X Code Quality Monitoring Repo Card](https://repo.x-cmd.io/CPU-X.svg?lang=zh)](https://x-cmd.com/install/CPU-X)
 
 ## 安装
 
@@ -38,7 +38,7 @@ x install CPU-X
 
 ## 流行度
 
-- **Star**: 2,654 · **Fork**: 158 · **开放 issue**: 306 · **贡献者**: 180
+- **Star**: 2,653 · **Fork**: 158 · **开放 issue**: 306 · **贡献者**: 180
 
 ## 累计统计
 
@@ -48,12 +48,12 @@ x install CPU-X
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 1 | 1 | 1 | 3 | 0 | 6 |
-| last60d | 2026-07-20 | 1 | 1 | 2 | 3 | 0 | 7 |
-| 90d | 2026-06-20 | 1 | 1 | 2 | 4 | 0 | 9 |
-| last180d | 2026-03-22 | 1 | 1 | 2 | 9 | 0 | 17 |
-| 360d | 2025-09-23 | 1 | 7 | 2 | 21 | 0 | 62 |
-| last720d | 2024-09-28 | 9 | 24 | 2 | 48 | 1 | 450 |
+| 30d | 2026-08-21 | 1 | 1 | 1 | 3 | 0 | 0 |
+| last60d | 2026-07-22 | 1 | 1 | 2 | 3 | 0 | 0 |
+| 90d | 2026-06-22 | 1 | 1 | 2 | 4 | 0 | 0 |
+| last180d | 2026-03-24 | 1 | 1 | 2 | 9 | 0 | 0 |
+| 360d | 2025-09-25 | 1 | 7 | 2 | 21 | 0 | 0 |
+| last720d | 2024-09-30 | 9 | 24 | 2 | 48 | 1 | 449 |
 
 ## Release 资产
 
@@ -73,4 +73,4 @@ CPU-X 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T05:54:06Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T05:57:50Z._
