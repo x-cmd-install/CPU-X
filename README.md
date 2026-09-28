@@ -2,6 +2,8 @@
 
 [中文版本](./README.cn.md)
 
+> ⚠️ This project is archived.
+
 CPU-X is a Free software that gathers information on CPU, motherboard and more
 
 [![x-cmd/install — CPU-X Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/CPU-X.svg)](https://x-cmd.com/install/CPU-X)
@@ -14,13 +16,13 @@ x install CPU-X
 
 ## Code insight
 
-Total: **54,706** lines of code across **142** files in the top 5 languages.
+Total: **54,710** lines of code across **142** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | C | 32,204 | 2,950 | 4,135 | 48 |
 | Assembly | 7,822 | 768 | 1,297 | 7 |
-| Cpp | 6,767 | 871 | 1,128 | 19 |
+| Cpp | 6,768 | 871 | 1,129 | 19 |
 | CHeader | 5,030 | 1,158 | 844 | 58 |
 | CppHeader | 987 | 318 | 272 | 10 |
 
@@ -32,37 +34,37 @@ Total: **54,706** lines of code across **142** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `continuous` (2025-08-22)
-- **Last commit**: 2026-09-13
+- **Latest**: `v5.4.1` (2026-09-27)
+- **Last commit**: 2026-09-27
 - **Assets in release**: 4
 
 ## Popularity
 
-- **Stars**: 2,658 · **Forks**: 159 · **Open issues**: 306 · **Contributors**: 180
+- **Stars**: 2,657 · **Forks**: 159 · **Open issues**: 306 · **Contributors**: 180
 
 ## Totals (cumulative)
 
-- **Releases**: 50 · **Merged PRs**: 92 · **Open PRs**: 2 · **Closed issues**: 305 · **Open issues**: 1 · **Commits**: 2831
+- **Releases**: 51 · **Merged PRs**: 92 · **Open PRs**: 2 · **Closed issues**: 305 · **Open issues**: 1 · **Commits**: 2833
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-28 | 1 | 1 | 0 | 3 | 0 | 3 |
-| last60d | 2026-07-29 | 1 | 1 | 2 | 3 | 0 | 7 |
-| 90d | 2026-06-29 | 1 | 1 | 2 | 4 | 0 | 8 |
-| last180d | 2026-03-31 | 1 | 1 | 2 | 9 | 0 | 17 |
-| 360d | 2025-10-02 | 1 | 7 | 2 | 20 | 0 | 58 |
-| last720d | 2024-10-07 | 9 | 22 | 2 | 45 | 1 | 435 |
+| 30d | 2026-08-29 | 2 | 1 | 0 | 3 | 0 | 5 |
+| last60d | 2026-07-30 | 2 | 1 | 2 | 3 | 0 | 9 |
+| 90d | 2026-06-30 | 2 | 1 | 2 | 4 | 0 | 10 |
+| last180d | 2026-04-01 | 2 | 1 | 2 | 9 | 0 | 19 |
+| 360d | 2025-10-03 | 2 | 7 | 2 | 20 | 0 | 60 |
+| last720d | 2024-10-08 | 9 | 22 | 2 | 44 | 1 | 428 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [CPU-X-5.4.0-aarch64.AppImage](https://github.com/thetumultuousunicornofdarkness/CPU-X/releases/download/v5.4.0/CPU-X-5.4.0-aarch64.AppImage) | 25.1 MiB | `other` |
-| [CPU-X-5.4.0-aarch64.AppImage.zsync](https://github.com/thetumultuousunicornofdarkness/CPU-X/releases/download/v5.4.0/CPU-X-5.4.0-aarch64.AppImage.zsync) | 88.1 KiB | `other` |
-| [CPU-X-5.4.0-x86_64.AppImage](https://github.com/thetumultuousunicornofdarkness/CPU-X/releases/download/v5.4.0/CPU-X-5.4.0-x86_64.AppImage) | 25.6 MiB | `other` |
-| [CPU-X-5.4.0-x86_64.AppImage.zsync](https://github.com/thetumultuousunicornofdarkness/CPU-X/releases/download/v5.4.0/CPU-X-5.4.0-x86_64.AppImage.zsync) | 89.7 KiB | `other` |
+| [CPU-X-5.4.1-aarch64.AppImage](https://github.com/thetumultuousunicornofdarkness/CPU-X/releases/download/v5.4.1/CPU-X-5.4.1-aarch64.AppImage) | 25.2 MiB | `other` |
+| [CPU-X-5.4.1-aarch64.AppImage.zsync](https://github.com/thetumultuousunicornofdarkness/CPU-X/releases/download/v5.4.1/CPU-X-5.4.1-aarch64.AppImage.zsync) | 88.5 KiB | `other` |
+| [CPU-X-5.4.1-x86_64.AppImage](https://github.com/thetumultuousunicornofdarkness/CPU-X/releases/download/v5.4.1/CPU-X-5.4.1-x86_64.AppImage) | 26.6 MiB | `other` |
+| [CPU-X-5.4.1-x86_64.AppImage.zsync](https://github.com/thetumultuousunicornofdarkness/CPU-X/releases/download/v5.4.1/CPU-X-5.4.1-x86_64.AppImage.zsync) | 93.3 KiB | `other` |
 
 ## Improve this data
 
@@ -73,4 +75,4 @@ Install metadata for CPU-X lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260927.yml` · 2026-09-27T06:13:51Z._
+_Snapshot: `data/card/260928.yml` · 2026-09-28T06:19:57Z._
