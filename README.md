@@ -50,12 +50,12 @@ Total: **54,710** lines of code across **142** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-29 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-30 | 2 | 1 | 0 | 3 | 0 | 5 |
-| 90d | 2026-07-31 | 2 | 1 | 2 | 3 | 0 | 9 |
-| last180d | 2026-05-02 | 2 | 1 | 2 | 7 | 0 | 16 |
-| 360d | 2025-11-03 | 2 | 3 | 2 | 19 | 0 | 42 |
-| last720d | 2024-11-08 | 9 | 21 | 2 | 43 | 1 | 389 |
+| 30d | 2026-09-30 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-31 | 2 | 1 | 0 | 3 | 0 | 5 |
+| 90d | 2026-08-01 | 2 | 1 | 2 | 3 | 0 | 9 |
+| last180d | 2026-05-03 | 2 | 1 | 2 | 6 | 0 | 16 |
+| 360d | 2025-11-04 | 2 | 3 | 2 | 19 | 0 | 42 |
+| last720d | 2024-11-09 | 9 | 21 | 2 | 43 | 1 | 388 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for CPU-X lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261029.yml` · 2026-10-29T06:49:01Z._
+_Snapshot: `data/card/261030.yml` · 2026-10-30T06:37:42Z._
