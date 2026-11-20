@@ -40,7 +40,7 @@ Total: **54,710** lines of code across **142** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,651 · **Forks**: 167 · **Open issues**: 306 · **Contributors**: 179
+- **Stars**: 2,649 · **Forks**: 167 · **Open issues**: 306 · **Contributors**: 179
 
 ## Totals (cumulative)
 
@@ -50,12 +50,12 @@ Total: **54,710** lines of code across **142** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-20 | 2 | 0 | 0 | 0 | 0 | 2 |
-| 90d | 2026-08-21 | 2 | 1 | 1 | 3 | 0 | 8 |
-| last180d | 2026-05-23 | 2 | 1 | 2 | 5 | 0 | 16 |
-| 360d | 2025-11-24 | 2 | 3 | 2 | 19 | 0 | 42 |
-| last720d | 2024-11-29 | 9 | 21 | 2 | 41 | 1 | 379 |
+| 30d | 2026-10-21 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-21 | 2 | 0 | 0 | 0 | 0 | 2 |
+| 90d | 2026-08-22 | 2 | 1 | 1 | 3 | 0 | 8 |
+| last180d | 2026-05-24 | 2 | 1 | 2 | 5 | 0 | 16 |
+| 360d | 2025-11-25 | 2 | 3 | 2 | 19 | 0 | 42 |
+| last720d | 2024-11-30 | 9 | 21 | 2 | 41 | 1 | 379 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for CPU-X lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T08:19:40Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T10:24:31Z._
